@@ -1,0 +1,11 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+sqlalchemy==1.4.22
+psycopg2==2.9.1
+pydantic==1.8.2
+python-dotenv==0.19.1
+csv==1.0
+azure-identity==1.6.0
+azure-keyvault-secrets==4.2.0
+azure-keyvault-certificates==4.2.0
+azure-keyvault-keys==4.2.0
