@@ -1,0 +1,20 @@
+# Ignore development and local files
+.env
+
+# Ignore Python virtual environment
+venv/
+env/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore logs
+*.log
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore generated files
+swagger.json

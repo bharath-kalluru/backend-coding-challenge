@@ -1,0 +1,37 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+
+# Editor temporary files
+*~
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+env/
+
+# IDE specific files
+.vscode/
+.idea/
+
+
+# Dependency directories
+venv/
+env/
+dist/
+build/
+*.egg-info/
+
+
+# Azure Key Vault configuration
+.azure/
+.keyvault/
+
+# Generated files
+swagger.json
+
+# Ignore specific files
+/data/cities_canada-usa.tsv
+
